@@ -1,0 +1,17 @@
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpProject.exe
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpProject.deps.json
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpProject.runtimeconfig.json
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpProject.dll
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpProject.pdb
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.AssemblyInfoInputs.cache
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.AssemblyInfo.cs
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.csproj.CoreCompileInputs.cache
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.dll
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\refint\MyFirstCSharpProject.dll
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.pdb
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.genruntimeconfig.cache
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\ref\MyFirstCSharpProject.dll
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpProject.csproj.AssemblyReference.cache
+F:\Toby\MyFirstCSharpProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Toby\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstC.DFC5A6A7.Up2Date
